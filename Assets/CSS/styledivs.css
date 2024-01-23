@@ -1,0 +1,44 @@
+.fruits{
+    border: solid 3px navajowhite;
+    background-color: lightblue;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+}
+.cars{
+    border: solid 4px palevioletred;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    font-family: "Courier 10 Pitch";
+    color: midnightblue;
+
+}
+.FRUITS {
+    border: solid 5px red;
+    background-color: navajowhite;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    font-family: "JetBrains Mono Light";
+}
+h1{
+    text-align: center;
+    color: indianred;
+    font-family: "Courier 10 Pitch";
+}
+#Computers{
+    border: dotted 7px aquamarine;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    font-family: Gubbi;
+    color: darkgoldenrod;
+}
+#home{
+    border: double 10px yellowgreen;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+}

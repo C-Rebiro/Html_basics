@@ -1,0 +1,43 @@
+body{
+    font-family: "DejaVu Sans";
+    background-color: #a972e3;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250vh;
+}
+#form-container{
+    background-color: #c07272;
+    padding: 20px;
+    border-radius: 5px;
+   box-shadow: ;
+    width: 400px;
+}
+.form-group{
+    margin-bottom: 16px;
+}
+label{
+    display: block;
+    margin: 8px;
+    font-weight: bold;
+}
+input[type="email"],
+input[type="password"],
+input[type="text"],
+textarea,
+select{
+    width: 100%;
+    padding: ;
+    box-sizing: border-box;
+    border: 1px solid ;
+    border-radius: 4px;
+}
+textarea{
+    height: 100px;
+}
+input[type="radio"],
+input[type="checkbox"],{
+    margin-right: 5px;
+}

@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    font-family: "Century Schoolbook L";
+    border-collapse: collapse;
+  background-color: lightblue;
+}
+tr{
+    background-image: image-set();
+}
+td, th{
+    border: 2px solid #c07272;
+    padding: 15px;
+}
+td{
+    color: darkblue;
+}
+th{
+    color: black;
+}
+p{
+    font-size: 50px;
+    font-family: Kinnari;
+    color: brown;
+    text-align: center;
+}
